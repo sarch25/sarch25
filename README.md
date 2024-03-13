@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/sarch25/LABURL)
-  - [Hello World!](https://github.com/sarch25/LABURL)
+  - [Active Directory Home Lab](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [Hello World!](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
