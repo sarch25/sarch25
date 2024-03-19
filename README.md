@@ -10,6 +10,8 @@
 
 <h2> Certifications</h2>
 
+- [Google Cybersecurity](file:///C:/Users/must2/Downloads/Google%20CyberSecurity%20Certificate.pdf)<----INSERT IMAGE OF CERTIFICATION
+
 - [Google Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)<----INSERT IMAGE OF CERTIFICATION
 
 <h2>📺 Popular YouTube Videos</h2>
