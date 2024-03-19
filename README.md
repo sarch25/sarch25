@@ -10,7 +10,7 @@
 
 <h2> Certifications</h2>
 
-- [CompTIA Security+]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://drive.google.com/file/d/1cWoJ87ZJsaKwP2AYebrn_e3fzovvkFPV/view?usp=drive_link))<----INSERT IMAGE OF CERTIFICATION
+- [CompTIA Security+](https://drive.google.com/file/d/1cWoJ87ZJsaKwP2AYebrn_e3fzovvkFPV/view?usp=drive_link)<----INSERT IMAGE OF CERTIFICATION
 
 - [Google Cybersecurity](https://drive.google.com/file/d/1PjCLeSB4tGmHF5UVE4qCqE8HC1vUhyNz/view?usp=drive_link)<----INSERT IMAGE OF CERTIFICATION
 
