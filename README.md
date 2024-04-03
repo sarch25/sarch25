@@ -1,10 +1,10 @@
 <h1>Hi, I'm Steven! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - [SIEM Tool with Azure](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
-  - [Active Directory Home Lab with PowerShell](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
-  - [File Integrity Monitor](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
-  - [Vulnerability Management Lab with OpenVAS](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [Trading Bot](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [Simple Scalping Strategy](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [Monthly Budget Calculator](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [CHoCH Indicator](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
