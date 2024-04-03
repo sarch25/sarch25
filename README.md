@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Trading Bot](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
-  - [Simple Scalping Strategy](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
-  - [Monthly Budget Calculator](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
-  - [CHoCH Indicator](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [SIEM Tool with Azure](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [Active Directory Home Lab with Powershell](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [File Integrity Monitor](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [Vulnerability Management Lab with OpenVAS](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
 
  
 - <b>PowerShell</b>
