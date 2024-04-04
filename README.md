@@ -14,7 +14,7 @@
 <h2>👨‍💻 Python/Trading Projects:</h2>
 
   - [Live Trading Bot](https://github.com/sarch25/Python-Trading-Bot/blob/main/README.md)
-  - [Simple Scalping Strategy](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [Simple Scalping Strategy](https://github.com/sarch25/Simple-Scalping-Strategy/blob/main/README.md)
   - [Monthly Budget Calculator](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
   - [CHoCH Indicator](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
 
