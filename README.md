@@ -1,6 +1,6 @@
 <h1>Hi, I'm Steven! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-Driven and innovative developer with a passion for financial markets and algorithmic trading. Seeking opportunities to leverage my expertise in developing a live trading bot utilizing brokers' APIs. My trading bot employs a sophisticated yet simple strategy, analyzing live market data to generate long and short signals based on the High, Low, Open, and Close prices of the three previous candles. With the ability to adapt to various financial instruments and chart types, my trading bot aims to automate the process of entering positions in the market, providing users with a reliable tool for executing trading strategies efficiently and effectively.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Equip with a finance background and a strong knowledge base of Python coding, I'm excited to enter the world of cybersecurity.
 
 <h2>👨‍💻 Cybersecurity Projects / Experience:</h2>
 
