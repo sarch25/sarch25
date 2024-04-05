@@ -1,6 +1,6 @@
 <h1>Hi, I'm Steven! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects / Experience:</h2>
 
   - [SIEM Tool with Azure](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
   - [Active Directory Home Lab with Powershell](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
