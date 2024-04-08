@@ -6,7 +6,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
   - [SIEM Tool with Azure](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
   - [Active Directory Home Lab with Powershell](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
-  - [File Integrity Monitor](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [File Integrity Monitor](https://github.com/sarch25/File-Integrity-Monitor)
   - [Vulnerability Management Lab with OpenVAS](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
 
  
