@@ -13,10 +13,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
  
 <h2>👨‍💻 Python Coding Experience / Projects:</h2>
 
-  - [Live Trading Bot](https://github.com/sarch25/Python-Trading-Bot/blob/main/README.md)
-  - [Simple Scalping Strategy](https://github.com/sarch25/Simple-Scalping-Strategy/blob/main/README.md)
+  - [Live Trading Bot for Stocks, Futures, and Forex](https://github.com/sarch25/Python-Trading-Bot/blob/main/README.md)
+  - [Simple Scalping Strategy for Backtesting Stocks, Futures, Forex](https://github.com/sarch25/Simple-Scalping-Strategy/blob/main/README.md)
   - [Monthly Budget Calculator](https://github.com/sarch25/Monthly-Budget-Calculator)
-  - [CHoCH Indicator](https://github.com/sarch25/CHoCH-Indicator)
+  - [CHoCH Indicator for Stocks, Futures, and Forex](https://github.com/sarch25/CHoCH-Indicator)
 
 
 
