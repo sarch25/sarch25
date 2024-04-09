@@ -9,6 +9,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [File Integrity Monitor](https://github.com/sarch25/File-Integrity-Monitor)
   - [Vulnerability Management Lab with OpenVAS](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
 
+
  
 <h2>👨‍💻 Python/Trading Projects:</h2>
 
@@ -16,6 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Simple Scalping Strategy](https://github.com/sarch25/Simple-Scalping-Strategy/blob/main/README.md)
   - [Monthly Budget Calculator](https://github.com/sarch25/Monthly-Budget-Calculator)
   - [CHoCH Indicator](https://github.com/sarch25/CHoCH-Indicator)
+
 
 
 <h2> Certifications</h2>
