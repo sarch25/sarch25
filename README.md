@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
  
-<h2>👨‍💻 Python/Trading Projects:</h2>
+<h2>👨‍💻 Python Coding Experience / Projects:</h2>
 
   - [Live Trading Bot](https://github.com/sarch25/Python-Trading-Bot/blob/main/README.md)
   - [Simple Scalping Strategy](https://github.com/sarch25/Simple-Scalping-Strategy/blob/main/README.md)
