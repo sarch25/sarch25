@@ -5,8 +5,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h2>👨‍💻 Cybersecurity Projects / Experience:</h2>
 
   - [SIEM Tool with Azure](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  
   - [Active Directory Lab with Powershell](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  
   - [File Integrity Monitor](https://github.com/sarch25/File-Integrity-Monitor)
+  
   - [Vulnerability Management Lab with OpenVAS](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
 
 
@@ -14,8 +17,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h2>👨‍💻 Python Coding Experience / Trading Projects:</h2>
 
   - [Live Trading Bot for Stocks, Futures, and Forex](https://github.com/sarch25/Python-Trading-Bot/blob/main/README.md)
+  
   - [Simple Scalping Strategy for Backtesting Stocks, Futures, and Forex](https://github.com/sarch25/Simple-Scalping-Strategy/blob/main/README.md)
+  
   - [Monthly Budget Calculator](https://github.com/sarch25/Monthly-Budget-Calculator)
+  
   - [CHoCH Indicator for Stocks, Futures, and Forex](https://github.com/sarch25/CHoCH-Indicator)
 
 
