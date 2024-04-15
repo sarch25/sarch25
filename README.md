@@ -4,7 +4,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h2>👨‍💻 Cybersecurity Projects / Experience:</h2>
 
-  - [SIEM Tool with Microsoft Sentinel Azure](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
+  - [SIEM Tool with Microsoft Sentinel Azure](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure)
   
   - [Active Directory Lab with Powershell](https://github.com/sarch25/ActiveDirectoryLab/tree/main)
   
