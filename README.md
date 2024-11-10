@@ -32,9 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - [Google Cybersecurity](https://drive.google.com/file/d/1PjCLeSB4tGmHF5UVE4qCqE8HC1vUhyNz/view?usp=drive_link)
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
