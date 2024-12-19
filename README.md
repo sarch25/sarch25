@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   
   - [File Integrity Monitor](https://github.com/sarch25/File-Integrity-Monitor)
   
-  - [Vulnerability Management Lab with OpenVAS](https://github.com/sarch25/Vulnerability-Management-Lab-with-OpenVAS)
+  - [Vulnerability Management Lab OpenVAS](https://github.com/sarch25/Vulnerability-Management-Lab-with-OpenVAS)
 
 
  
