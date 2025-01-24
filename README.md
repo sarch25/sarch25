@@ -30,6 +30,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - [CompTIA Security+](https://drive.google.com/file/d/1cWoJ87ZJsaKwP2AYebrn_e3fzovvkFPV/view?usp=drive_link)
 
+- [LetsDefend SOC Analyst](https://drive.google.com/file/d/1Dh43_rkbfhBoaPUZ5My7U6QhiJhfSHSv/view?usp=drive_link)
+
 - [Google Cybersecurity](https://drive.google.com/file/d/1PjCLeSB4tGmHF5UVE4qCqE8HC1vUhyNz/view?usp=drive_link)
 
 
