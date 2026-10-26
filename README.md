@@ -22,7 +22,7 @@
 
 ## 🔐 Featured Infrastructure & Security Projects
 
-### 📊 Secure Financial Data Pipeline `[ Coming Soon ]`
+### 📊 **[Secure Financial Data Pipeline](https://github.com/sarch25/secure-financial-data-pipeline)**
 
 An event-driven, production-grade Python architecture built to ingest real-time financial streaming data (Options chains, Futures ticks, and Stock prices). Features secure local sandbox testing, decoupled environment variable management, and automated failover error handling.
 
