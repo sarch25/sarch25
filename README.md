@@ -19,27 +19,27 @@
 
 
 
+
 ## 🔐 Featured Infrastructure & Security Projects
 
 ### 📊 Secure Financial Data Pipeline `[ Coming Soon ]`
-An event-driven, production-grade Python architecture built to ingest real-time financial streaming data (Options chains, Futures ticks, and Stock prices). Features secure local sandbox testing, decoupled environment variable management, and automated failover error handling.
-* **Core Tech:** Python, Tradier API, WebSockets, REST, Dotenv
 
-## 🚨 Threat Hunting and Security Operations
-  
+An event-driven, production-grade Python architecture built to ingest real-time financial streaming data (Options chains, Futures ticks, and Stock prices). Features secure local sandbox testing, decoupled environment variable management, and automated failover error handling.
+
+- **Core Tech:** Python, Tradier API, WebSockets, REST, Dotenv
+
 ### ☁️ Cloud Infrastructure Hardening Case Study `[ Coming Soon ]`
+
 A comprehensive architectural blueprint detailing host-level hardening parameters for containerized services deployed to a public cloud VPS. Implements perimeter network defense, reverse proxy ingress routing, and device-authenticated webhook notification protocols.
-* **Core Tech:** Ubuntu Linux, Docker, Nginx Proxy, UFW, OpenSSH, Cryptographic Webhooks
+
+- **Core Tech:** Ubuntu Linux, Docker, Nginx Proxy, UFW, OpenSSH, Cryptographic Webhooks
 
 ### 🛡️ **[Vulnerability Management Program Implementation](https://github.com/sarch25/vulnerability-management-program)**
+
 A structured security lifecycle project focused on identifying, assessing, and remediating high-risk infrastructure vulnerabilities utilizing industry-standard network discovery tools.
-* **Core Tech:** OpenVAS, Linux Administration, Vulnerability Assessment Frameworks
 
-<h2>👨‍💻 Cybersecurity Projects / Experience:</h2>
+- **Core Tech:** OpenVAS, Linux Administration, Vulnerability Assessment Frameworks
 
-
- 
-<h2>👨‍💻 Python Coding Experience / Trading Projects:</h2>
 
 ## 🎯 Target Domains & Core Interests
 * **Financial Technology & Algorithmic Execution Infrastructure**
