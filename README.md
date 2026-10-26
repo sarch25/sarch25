@@ -1,5 +1,5 @@
-# <a href="https://www.linkedin.com/in/steven-archie-5597384b/">Steven Archie</a>  
-### Python Automation | Cloud Infrastructure Security | FinTech Engineering
+# <a href="https://www.linkedin.com/in/steven-archie-5597384b/">Steven Archie</a> 
+Python Automation | Cloud Infrastructure Security | FinTech Engineering
 
 I engineer and secure event-driven Python applications, production data pipelines, and cloud-hosted environments. My work focuses on bridging high-throughput financial technology with defensive cybersecurity controls.
 
