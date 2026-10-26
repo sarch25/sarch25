@@ -6,6 +6,10 @@ My technical toolkit includes architecting Docker microservices, hardening Linux
 
 ## 🔐 Featured Infrastructure & Security Projects
 
+### 📊 Secure Financial Data Pipeline `[ Coming Soon ]`
+An event-driven, production-grade Python architecture built to ingest real-time financial streaming data (Options chains, Futures ticks, and Stock prices). Features secure local sandbox testing, decoupled environment variable management, and automated failover error handling.
+* **Core Tech:** Python, Tradier API, WebSockets, REST, Dotenv
+
 - **[Vulnerability Management Program Implementation](https://github.com/sarch25/vulnerability-management-program)**
 
 ## 🚨 Threat Hunting and Security Operations
