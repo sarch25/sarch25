@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/steven-archie-5597384b/">Steven Archie</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I engineer and secure event-driven Python applications, production data pipelines, and cloud-hosted environments. My work focuses on bridging high-throughput financial technology with defensive cybersecurity controls.
+
+My technical toolkit includes architecting Docker microservices, hardening Linux environments, building resilient REST/WebSocket API integrations, and executing continuous security threat modeling.
 
 ## ⚠️ Vulnerability Management Projects
 
