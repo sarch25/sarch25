@@ -15,6 +15,10 @@ An event-driven, production-grade Python architecture built to ingest real-time 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sarch25/threat-hunting-scenario-tor)**
+  
+### ☁️ Cloud Infrastructure Hardening Case Study `[ Coming Soon ]`
+A comprehensive architectural blueprint detailing host-level hardening parameters for containerized services deployed to a public cloud VPS. Implements perimeter network defense, reverse proxy ingress routing, and device-authenticated webhook notification protocols.
+* **Core Tech:** Ubuntu Linux, Docker, Nginx Proxy, UFW, OpenSSH, Cryptographic Webhooks
 
 <h2>👨‍💻 Cybersecurity Projects / Experience:</h2>
 
