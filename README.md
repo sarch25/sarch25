@@ -19,7 +19,7 @@ An event-driven, production-grade Python architecture built to ingest real-time 
 A comprehensive architectural blueprint detailing host-level hardening parameters for containerized services deployed to a public cloud VPS. Implements perimeter network defense, reverse proxy ingress routing, and device-authenticated webhook notification protocols.
 * **Core Tech:** Ubuntu Linux, Docker, Nginx Proxy, UFW, OpenSSH, Cryptographic Webhooks
 
-### 🛡️- **[Vulnerability Management Program Implementation](https://github.com/sarch25/vulnerability-management-program)**
+### 🛡️ **[Vulnerability Management Program Implementation](https://github.com/sarch25/vulnerability-management-program)**
 A structured security lifecycle project focused on identifying, assessing, and remediating high-risk infrastructure vulnerabilities utilizing industry-standard network discovery tools.
 * **Core Tech:** OpenVAS, Linux Administration, Vulnerability Assessment Frameworks
 
