@@ -20,6 +20,10 @@ An event-driven, production-grade Python architecture built to ingest real-time 
 A comprehensive architectural blueprint detailing host-level hardening parameters for containerized services deployed to a public cloud VPS. Implements perimeter network defense, reverse proxy ingress routing, and device-authenticated webhook notification protocols.
 * **Core Tech:** Ubuntu Linux, Docker, Nginx Proxy, UFW, OpenSSH, Cryptographic Webhooks
 
+### 🛡️ Vulnerability Management Program Implementation `[ View Project ]`
+A structured security lifecycle project focused on identifying, assessing, and remediating high-risk infrastructure vulnerabilities utilizing industry-standard network discovery tools.
+* **Core Tech:** OpenVAS, Linux Administration, Vulnerability Assessment Frameworks
+
 <h2>👨‍💻 Cybersecurity Projects / Experience:</h2>
 
   - **[SIEM Tool with Microsoft Sentinel Azure](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure)**
@@ -33,6 +37,12 @@ A comprehensive architectural blueprint detailing host-level hardening parameter
 
  
 <h2>👨‍💻 Python Coding Experience / Trading Projects:</h2>
+
+## 🎯 Target Domains & Core Interests
+* **Financial Technology & Algorithmic Execution Infrastructure**
+* **Application Security (AppSec) & DevSecOps Pipelines**
+* **Cloud Infrastructure Hardening & Threat Surface Reduction**
+* **Security Operations (SecOps) & Automated Incident Response**
 
   - **[Python Automated Live Trading Bot for Stocks, Futures, and Forex](https://github.com/sarch25/Python-Trading-Bot/blob/main/README.md)**
   
