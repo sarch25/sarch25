@@ -4,7 +4,7 @@ I engineer and secure event-driven Python applications, production data pipeline
 
 My technical toolkit includes architecting Docker microservices, hardening Linux environments, building resilient REST/WebSocket API integrations, and executing continuous security threat modeling.
 
-## ⚠️ Vulnerability Management Projects
+## 🔐 Featured Infrastructure & Security Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/sarch25/vulnerability-management-program)**
 
