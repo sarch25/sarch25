@@ -28,7 +28,7 @@ An event-driven, production-grade Python architecture built to ingest real-time 
 
 - **Core Tech:** Python, Tradier API, WebSockets, REST, Dotenv
 
-### ☁️ Cloud Infrastructure Hardening Case Study `[ Coming Soon ]`
+### ☁️ **[Cloud Infrastructure Hardening Case Study](https://github.com/sarch25/cloud-infrastructure-hardening)**
 
 A comprehensive architectural blueprint detailing host-level hardening parameters for containerized services deployed to a public cloud VPS. Implements perimeter network defense, reverse proxy ingress routing, and device-authenticated webhook notification protocols.
 
