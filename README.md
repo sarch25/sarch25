@@ -14,8 +14,6 @@ An event-driven, production-grade Python architecture built to ingest real-time 
 - **[Vulnerability Management Program Implementation](https://github.com/sarch25/vulnerability-management-program)**
 
 ## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sarch25/threat-hunting-scenario-tor)**
   
 ### ☁️ Cloud Infrastructure Hardening Case Study `[ Coming Soon ]`
 A comprehensive architectural blueprint detailing host-level hardening parameters for containerized services deployed to a public cloud VPS. Implements perimeter network defense, reverse proxy ingress routing, and device-authenticated webhook notification protocols.
@@ -27,14 +25,6 @@ A structured security lifecycle project focused on identifying, assessing, and r
 
 <h2>👨‍💻 Cybersecurity Projects / Experience:</h2>
 
-  - **[SIEM Tool with Microsoft Sentinel Azure](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure)**
-  
-  - **[Active Directory with Powershell](https://github.com/sarch25/ActiveDirectoryLab/tree/main)**
-  
-  - **[File Integrity Monitor](https://github.com/sarch25/File-Integrity-Monitor)**
-  
-  - **[Vulnerability Management with OpenVAS](https://github.com/sarch25/Vulnerability-Management-Lab-with-OpenVAS)**
-
 
  
 <h2>👨‍💻 Python Coding Experience / Trading Projects:</h2>
@@ -44,15 +34,6 @@ A structured security lifecycle project focused on identifying, assessing, and r
 * **Application Security (AppSec) & DevSecOps Pipelines**
 * **Cloud Infrastructure Hardening & Threat Surface Reduction**
 * **Security Operations (SecOps) & Automated Incident Response**
-
-  - **[Python Automated Live Trading Bot for Stocks, Futures, and Forex](https://github.com/sarch25/Python-Trading-Bot/blob/main/README.md)**
-  
-  - **[Scalping Strategy for Backtesting Stocks, Futures, and Forex](https://github.com/sarch25/Simple-Scalping-Strategy/blob/main/README.md)**
-  
-  - **[Monthly Budget Calculator](https://github.com/sarch25/Monthly-Budget-Calculator)**
-  
-  - **[CHoCH Indicator for Stocks, Futures, and Forex](https://github.com/sarch25/CHoCH-Indicator)**
-
 
 
 <h2> Certifications</h2>
