@@ -1,10 +1,13 @@
 
 
+
 <h1 align="center">Steven Archie</h1>
 
 <p align="center">
   Python Automation &nbsp;•&nbsp; Cloud Infrastructure &amp; Security &nbsp;•&nbsp; FinTech Engineering
 </p>
+
+<br>
 
 <p>
   I engineer and secure event-driven Python applications, production data pipelines, and cloud-hosted environments. My work focuses on bridging high-throughput financial technology with defensive cybersecurity controls.
@@ -13,6 +16,7 @@
 <p>
   My technical toolkit includes architecting Docker microservices, hardening Linux environments, building resilient REST/WebSocket API integrations, and executing continuous security threat modeling.
 </p>
+
 
 
 ## 🔐 Featured Infrastructure & Security Projects
